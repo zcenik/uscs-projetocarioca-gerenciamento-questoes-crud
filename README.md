@@ -17,3 +17,6 @@ CREATE TABLE QUESTOES
     OPT4 VARCHAR(70) NULL,
     RESPOSTA VARCHAR(70) NULL
 );
+
+```
+**OBS:** alterar classe **DBConnection** com os parâmetros necessários para conexão local do seu próprio servidor.
