@@ -19,4 +19,9 @@ CREATE TABLE QUESTOES
 );
 
 ```
-**OBS:** alterar classe **DBConnection** com os parâmetros necessários para conexão local do seu próprio servidor.
+**OBS:** alterar classe **DBConnection** com os parâmetros necessários para conexão local do seu próprio servidor.<br>
+<br>**Integrantes:**<br>
+Gustavo Grassini Calabrez<br>
+Gabriel Cabreira Quirino<br>
+Bruno da Silva<br>
+Cauã Barchi F. F.
