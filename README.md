@@ -1,6 +1,6 @@
 **Tecnologias: Java e MySql.**
 
-**Para utilizar o MySql local, basta criar as tabelas:**
+**Para utilizar o MySql local, basta rodar o script:**
 
 ```
 CREATE DATABASE DBGRS;
